@@ -19,7 +19,7 @@ $ npm install -g typescript
 
 ```sh
 $ tsc app.ts
-$ node out/app.js
+$ node app.js
 ```
 o
 ```sh
